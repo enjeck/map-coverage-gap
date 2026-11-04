@@ -1,0 +1,225 @@
+{
+ "mean": 0.059806,
+ "var": 0.007925,
+ "public": {
+  "const_0.00": 0.107246299,
+  "const_0.20": 0.16607025,
+  "v1": 0.138401551,
+  "v2a": 0.164898767,
+  "v2b": 0.177763077,
+  "v3": 0.085753935,
+  "probe_road": 0.080264317,
+  "probe_building": 0.094252393,
+  "probe_poi": 0.093476281,
+  "probe_hwy_defined": 0.086088075,
+  "v4": 0.079371927,
+  "probe_reg_eastern_ok": 0.0854479,
+  "probe_reg_northern_ca": 0.093457013,
+  "probe_reg_maricopa_az": 0.096625953,
+  "probe_reg_south_central_tx": 0.097705698,
+  "v5": 0.076486735,
+  "probe_pf_log_density": 0.083592519,
+  "probe_pf_osm_share": 0.084976629,
+  "probe_pf_no_fire": 0.092079526,
+  "probe_pf_log_places_pc": 0.090378895,
+  "v6": 0.076236679,
+  "probe_pf_no_school": 0.092252989,
+  "probe_pf_route_minor_share": 0.09578396,
+  "probe_road_x_eastern_ok": 0.081139081,
+  "v7": 0.07221853,
+  "probe_pf_no_ems": 0.093997484,
+  "probe_road_x_northern_ca": 0.09113477,
+  "probe_road_x_maricopa_az": 0.089272362,
+  "probe_road_x_south_central_tx": 0.088644059,
+  "v8": 0.072056651,
+  "probe_pf_has_interstate": 0.094227569,
+  "probe_pf_log_route_dens": 0.092987683,
+  "probe_pf_log_named_ratio": 0.083600381,
+  "probe_pf_ml_old_frac_all": 0.089238474,
+  "v9": 0.07124822,
+  "probe_pf_msml_share": 0.085369273,
+  "probe_pf_road_gap_t3_0": 0.079381312,
+  "probe_pf_road_gap_t1_5": 0.082167207,
+  "probe_pf_road_gap_t1_0": 0.089848926,
+  "v10": 0.070628563,
+  "probe_pf_road_gap_t3_x_tx": 0.088861528,
+  "probe_pf_road_gap_t3_x_ok": 0.08109696,
+  "probe_pf_road_gap_t6_0": 0.080516761,
+  "probe_pf_road_gap_t4_0": 0.079602175,
+  "v11": 0.070487788,
+  "probe_pf_undef_x_ca": 0.094690961,
+  "probe_pf_undef_x_az": 0.099044633,
+  "probe_pf_undef_x_tx": 0.098708903,
+  "probe_pf_undef_x_ok": 0.095532986,
+  "v12": 0.070528334,
+  "probe_pf_undef_x_log_density": 0.100008027,
+  "probe_pf_undef_x_msml_share": 0.096921686,
+  "probe_pf_undef_x_no_school": 0.096448914,
+  "probe_pf_undef_x_osm_share": 0.100962683,
+  "v13": 0.070641289
+ },
+ "private": {
+  "v10": 0.071502116,
+  "v11": 0.071465935,
+  "v12": 0.072334671,
+  "v13": 0.071437179
+ },
+ "probes": {
+  "probe_road": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_building": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_poi": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_hwy_defined": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_reg_eastern_ok": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_reg_northern_ca": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_reg_maricopa_az": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_reg_south_central_tx": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_log_density": {
+   "s": 0.029222,
+   "sign": -1.0
+  },
+  "probe_pf_osm_share": {
+   "s": 0.03,
+   "sign": -1.0
+  },
+  "probe_pf_no_fire": {
+   "s": 0.03,
+   "sign": -1.0
+  },
+  "probe_pf_log_places_pc": {
+   "s": 0.014949,
+   "sign": 1.0
+  },
+  "probe_pf_no_school": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_route_minor_share": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_road_x_eastern_ok": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_no_ems": {
+   "s": 0.03,
+   "sign": -1.0
+  },
+  "probe_road_x_northern_ca": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_road_x_maricopa_az": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_road_x_south_central_tx": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_has_interstate": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_log_route_dens": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_log_named_ratio": {
+   "s": 0.016879,
+   "sign": -1.0
+  },
+  "probe_pf_ml_old_frac_all": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_msml_share": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_road_gap_t3_0": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_road_gap_t1_5": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_road_gap_t1_0": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_road_gap_t3_x_tx": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_road_gap_t3_x_ok": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_road_gap_t6_0": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_road_gap_t4_0": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_undef_x_ca": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_undef_x_az": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_undef_x_tx": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_undef_x_ok": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_undef_x_log_density": {
+   "s": 0.026933,
+   "sign": 1.0
+  },
+  "probe_pf_undef_x_msml_share": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_undef_x_no_school": {
+   "s": 0.03,
+   "sign": 1.0
+  },
+  "probe_pf_undef_x_osm_share": {
+   "s": 0.03,
+   "sign": 1.0
+  }
+ }
+}
